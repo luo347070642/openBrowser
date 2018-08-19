@@ -1,0 +1,9 @@
+C:\Users\34707\source\repos\openBrowser\openBrowser\bin\Debug\openBrowser.exe
+C:\Users\34707\source\repos\openBrowser\openBrowser\bin\Debug\openBrowser.pdb
+C:\Users\34707\source\repos\openBrowser\openBrowser\obj\Debug\openBrowser.Form1.resources
+C:\Users\34707\source\repos\openBrowser\openBrowser\obj\Debug\openBrowser.Properties.Resources.resources
+C:\Users\34707\source\repos\openBrowser\openBrowser\obj\Debug\openBrowser.csproj.GenerateResource.cache
+C:\Users\34707\source\repos\openBrowser\openBrowser\obj\Debug\openBrowser.csproj.CoreCompileInputs.cache
+C:\Users\34707\source\repos\openBrowser\openBrowser\obj\Debug\openBrowser.exe
+C:\Users\34707\source\repos\openBrowser\openBrowser\obj\Debug\openBrowser.pdb
+C:\Users\34707\source\repos\openBrowser\openBrowser\obj\Debug\openBrowser.csprojAssemblyReference.cache
